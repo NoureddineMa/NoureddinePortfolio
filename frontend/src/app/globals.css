@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&family=Poppins:ital,wght@0,100;0,300;0,400;0,600;0,700;1,100&family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,300;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&family=Poppins:ital,wght@0,100;0,300;0,400;0,600;0,700;1,100&family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,300;1,500&family=Rubik:wght@800&display=swap');
+
+.title__page {
+  font-family: 'Rubik';
+}
+body {
+  background-color: black;
+  cursor: url('../Assets/Imgaes/cursor.png');
+  font-family: 'Roboto Mono', monospace;
+}
+

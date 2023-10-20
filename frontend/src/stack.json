@@ -1,0 +1,34 @@
+{
+    "images": [
+      {
+        "label": "React js",
+        "altText": "reactjs",
+        "imageSrc": "/Images/Reactjs.png"
+      },
+      {
+        "label": "Next js",
+        "altText": "nextjs",
+        "imageSrc": "/Images/Nextjs.png"
+      },
+      {
+        "label": "Node js",
+        "altText": "nodejs",
+        "imageSrc": "/Images/Nodejs.png"
+      },
+      {
+        "label": "Git",
+        "altText": "git",
+        "imageSrc": "/Images/git.png"
+      },
+      {
+        "label": "Typescript",
+        "altText": "typescript",
+        "imageSrc": "/Images/Typescriptt.png"
+      },
+      {
+        "label": "Mongo Db",
+        "altText": "typescript",
+        "imageSrc": "/Images/Mongodb.png"
+      }
+    ]
+}
